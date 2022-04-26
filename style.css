@@ -134,14 +134,14 @@ h1 {
 }
 
 .promo-1 {
-    background-image: url(/img/promo-1.png);
+    background-image: url(img/promo-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 116px 0px;
 }
 
 .promo-2 {
-    background-image: url(/img/promo-2.png);
+    background-image: url(img/promo-2.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 102px 0px;
